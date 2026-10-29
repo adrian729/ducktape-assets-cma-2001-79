@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: silver-acanthus-scroll-with-blue-and-red-flowers
+title: Silver acanthus with roses and blue flowers
+description: A tall vertical border piece. A silver-gray acanthus scroll with white highlights curls through two large C-shapes in the middle, threaded by thin red stems that carry four red roses with gold centres at the top, bell-shaped blue flowers and two brownish-red blossoms below, and green leaves and small round buds throughout. Painted with fine dark contours; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - rose
+  - flower
+  - leaf
+  - stem
+  - scroll
+  - bud
+colors:
+  - gray
+  - red
+  - green
+  - blue
+  - white
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Runs down an outer margin; the roses sit at the top, so flip vertically only if the flowers may hang.
+display_width:
+  - 215
+  - 430
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The upper left rose and the lowest leaves reach the edges of the master where the border met the edge of the leaf.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Text with Illustrated Border (verso)"
+  object_identifier: 2001.79.b
+  date: c. 1510
+  record_url: https://clevelandart.org/art/2001.79.b
+  image_url: https://openaccess-cdn.clevelandart.org/2001.79.b/2001.79.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 0d90fea64ea8ab48fbd455ce35394aad89858f0753d88cfec28f46db1aaea748
+license: null
